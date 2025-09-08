@@ -33,3 +33,12 @@ Para subir ao GitHub Pages, execute o comando:
 ``` shell
 mkdocs gh-deploy
 ```
+
+
+## Notebooks
+
+Para subir notebooks no mkdocs, podemos utilizar a biblioteca do [mkdocs-jupyter](https://github.com/danielfrg/mkdocs-jupyter).
+
+Instalação, utilização e exemplos podem ser vistos na [documentação oficial](https://github.com/danielfrg/mkdocs-jupyter).
+
+O arquivo `mkdocs.yml` tem anotações nos nós modificados de exemplo.
