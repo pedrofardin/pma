@@ -52,3 +52,5 @@ ax.set_xlim(min(x), max(xs))
 buffer = StringIO()
 plt.savefig(buffer, format="svg")
 print(buffer.getvalue())
+
+plt.close()
