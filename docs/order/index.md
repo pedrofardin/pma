@@ -139,51 +139,19 @@ The API should have the following endpoints:
         ``` { .json .copy .select linenums='1' }
         [
             {
-                "id": "0195ac33-73e5-7cb3-90ca-7b5e7e549569",
-                "date": "2025-09-01T12:30:00",
-                "total": 26.44,
-                "items": [
-                    {
-                        "id": "01961b9a-bca2-78c4-9be1-7092b261f217",
-                        "product": {
-                            "id": "0195abfb-7074-73a9-9d26-b4b9fbaab0a8",
-                            "name": "Tomato",
-                            "unit": "kg",
-                            "price": 10.12
-                        },
-                        "quantity": 2,
-                        "total": 20.24
-                    },
-                    {
-                        "id": "01961b9b-08fd-76a5-8508-cdb6cd5c27ab",
-                        "product": {
-                            "id": "0195abfe-e416-7052-be3b-27cdaf12a984",
-                            "name": "Cheese",
-                            "unit": "slice",
-                            "price": 0.62
-                        },
-                        "quantity": 10,
-                        "total": 6.2
-                    }
-                ]
+                "id": "85d06a70-b98a-423d-abee-1a158e4f1bfe",
+                "date": "2025-10-19T17:23:52.51644",
+                "total": 3.0
             },
             {
-                "id": "0195ac33-cbbd-7a6e-a15b-b85402cf143f",
-                "date": "2025-10-09T03:21:57",
-                "total": 18.6,
-                "items": [
-                    {
-                        "id": "519c5b7a-d2e1-4b8f-a1c2-9f3e6d5c4b2a",
-                        "product": {
-                            "id": "97172619-f825-4755-93dd-d60852820bfd",
-                            "name": "Grape Juice",
-                            "unit": "liter",
-                            "price": 18.6
-                        },
-                        "quantity": 1,
-                        "total": 18.6
-                    }
-                ]
+                "id": "9aa25cec-2522-4a44-88cb-dd2e3325153b",
+                "date": "2025-10-19T17:24:42.484767",
+                "total": 7.25
+            },
+            {
+                "id": "80e18081-6fec-4669-bebd-36a3edf5aea9",
+                "date": "2025-10-28T12:33:53.496271",
+                "total": 7.25
             }
         ]
         ```
