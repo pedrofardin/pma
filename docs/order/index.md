@@ -95,7 +95,6 @@ The API should have the following endpoints:
         {
             "id": "0195ac33-73e5-7cb3-90ca-7b5e7e549569",
             "date": "2025-09-01T12:30:00",
-            "total": 26.44,
             "items": [
                 {
                     "id": "01961b9a-bca2-78c4-9be1-7092b261f217",
@@ -119,7 +118,8 @@ The API should have the following endpoints:
                     "quantity": 10,
                     "total": 6.2
                 }
-            ]
+            ],
+            "total": 26.44,
         }
         ```
         ```bash
@@ -172,7 +172,6 @@ The API should have the following endpoints:
         {
             "id": "0195ac33-73e5-7cb3-90ca-7b5e7e549569",
             "date": "2025-09-01T12:30:00",
-            "total": 26.44,
             "items": [
                 {
                     "id": "01961b9a-bca2-78c4-9be1-7092b261f217",
@@ -196,7 +195,8 @@ The API should have the following endpoints:
                     "quantity": 10,
                     "total": 6.2
                 }
-            ]
+            ],
+            "total": 26.44,
         }
         ```
         ```bash
