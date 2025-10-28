@@ -146,6 +146,6 @@ nav:
     - Product: ./product/index.md
     - Order: ./order/index.md
     - Exchange: ./exchange/index.md
-    - Roteiro 4: ./roteiro4/index.md
+    - Jenkins: ./jenkins/index.md
     - Notebook 1: ./notebook1/ex1_data.ipynb
   - Projeto: ./projeto/index.md
