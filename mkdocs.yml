@@ -147,5 +147,5 @@ nav:
     - Order: ./order/index.md
     - Exchange: ./exchange/index.md
     - Jenkins: ./jenkins/index.md
-    - Notebook 1: ./notebook1/ex1_data.ipynb
+    - Minikube: ./minikube/index.md
   - Projeto: ./projeto/index.md

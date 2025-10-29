@@ -10,19 +10,13 @@
 
 1. Pedro Ricardo Fardin
 
-
-
-!!! tip "Instruções"
-
-    Vocês devem utilizar este template como um bloco de notas para registrar o que foi feito e o que falta fazer. Vocês devem adicionar as informações necessárias.
-    O template deve ser editado e atualizado a cada entrega, registrando assim a data de entrega e o que foi feito até o momento via Git.
-
 ## Entregas
 
-- [x] Roteiro 1 - Data 24/09/2025
-- [ ] Roteiro 2 - Data 07/10/2025
-- [ ] Roteiro 3 - Data 15/10/2025
-- [ ] Roteiro 4 - Data 17/10/2025 
+- [x] Roteiro 1
+- [x] Roteiro 2
+- [x] Roteiro 3
+- [x] Roteiro 4
+- [x] Roteiro 5
 - [ ] Projeto
 
 ## Diagrama
