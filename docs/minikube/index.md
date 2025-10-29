@@ -286,4 +286,6 @@ spec:
     app: gateway
 ```
 
+![Minikube Dashboard](./img/image.png){ width=100% }
+
 > This MkDocs was created by [Pedro Fardin](https://github.com/pedrofardin)
